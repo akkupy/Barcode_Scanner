@@ -4,7 +4,6 @@ import sys
 from tkinter import *
 from pyzbar import pyzbar
 from datetime import datetime as dt
-from pynput.keyboard import Key, Controller
 
 
 
