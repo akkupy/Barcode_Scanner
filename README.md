@@ -1,5 +1,5 @@
 # Barcode_Scanner
 
 
-# install requirements
-# Run main.py
+* install requirements
+* Run main.py
